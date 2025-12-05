@@ -1,0 +1,8 @@
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\AcademicCalendar\obj\Debug\net9.0\AcademicCalendar.MvcApplicationPartsAssemblyInfo.cache
