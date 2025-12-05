@@ -1,7 +1,10 @@
-﻿using AcademicCalendar.Modules.AcademicYear.DTOs;
-using AcademicCalendar.Modules.AcademicYear.Repository;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Linq;
 
-using AcademicCalendar.Modules.AcademicYear.Model;
+using AcademicCalendar.Modules.AcademicYear.DTOs;
+using AcademicCalendar.Modules.AcademicYear.Repository;
+using AYModel = AcademicCalendar.Modules.AcademicYear.Model.AcademicYear;
 
 
 namespace AcademicCalendar.Modules.AcademicYear.Service
@@ -18,6 +21,7 @@ namespace AcademicCalendar.Modules.AcademicYear.Service
         public async Task<List<AcademicYearDto>> GetAll()
         {
             var list = await _repo.GetAllAsync();
+
             return list.Select(x => new AcademicYearDto
             {
                 Id = x.Id,
@@ -31,7 +35,7 @@ namespace AcademicCalendar.Modules.AcademicYear.Service
 
         public async Task<AcademicYearDto> Create(AcademicYearCreateDto dto)
         {
-            var year = new AcademicYear 
+            var year = new AYModel
             {
                 YearName = dto.YearName,
                 FallStart = dto.FallStart,
