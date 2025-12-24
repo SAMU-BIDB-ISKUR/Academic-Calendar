@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\modules\\academicyears\\repository\\academicyearrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:modules\\academicyears\\repository\\academicyearrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\modules\\academicyears\\model\\academicyearmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:modules\\academicyears\\model\\academicyearmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\modules\\academicyears\\service\\academicyearservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:modules\\academicyears\\service\\academicyearservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\modules\\academicevents\\model\\academiceventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:modules\\academicevents\\model\\academiceventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\modules\\academicevents\\repository\\academiceventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:modules\\academicevents\\repository\\academiceventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|c:\\users\\lenovo\\desktop\\academiccalendar\\modules\\academicevents\\service\\academiceventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFFC0645-4ED8-407A-B625-35341BB24CD8}|AcademicCalendar.csproj|solutionrelative:modules\\academicevents\\service\\academiceventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcademicYearRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicYears\\Repository\\AcademicYearRepository.cs",
+              "RelativeDocumentMoniker": "Modules\\AcademicYears\\Repository\\AcademicYearRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicYears\\Repository\\AcademicYearRepository.cs",
+              "RelativeToolTip": "Modules\\AcademicYears\\Repository\\AcademicYearRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:03:03.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AcademicYearService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicYears\\Service\\AcademicYearService.cs",
+              "RelativeDocumentMoniker": "Modules\\AcademicYears\\Service\\AcademicYearService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicYears\\Service\\AcademicYearService.cs",
+              "RelativeToolTip": "Modules\\AcademicYears\\Service\\AcademicYearService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T10:54:44.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcademicYearModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicYears\\Model\\AcademicYearModel.cs",
+              "RelativeDocumentMoniker": "Modules\\AcademicYears\\Model\\AcademicYearModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicYears\\Model\\AcademicYearModel.cs",
+              "RelativeToolTip": "Modules\\AcademicYears\\Model\\AcademicYearModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:24:22.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcademicEventModel.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicEvents\\Model\\AcademicEventModel.cs",
+              "RelativeDocumentMoniker": "Modules\\AcademicEvents\\Model\\AcademicEventModel.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicEvents\\Model\\AcademicEventModel.cs",
+              "RelativeToolTip": "Modules\\AcademicEvents\\Model\\AcademicEventModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T20:31:19.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:50:28.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:37:51.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AcademicEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicEvents\\Repository\\AcademicEventRepository.cs",
+              "RelativeDocumentMoniker": "Modules\\AcademicEvents\\Repository\\AcademicEventRepository.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicEvents\\Repository\\AcademicEventRepository.cs",
+              "RelativeToolTip": "Modules\\AcademicEvents\\Repository\\AcademicEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:47:08.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AcademicEventService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicEvents\\Service\\AcademicEventService.cs",
+              "RelativeDocumentMoniker": "Modules\\AcademicEvents\\Service\\AcademicEventService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\AcademicCalendar\\Modules\\AcademicEvents\\Service\\AcademicEventService.cs",
+              "RelativeToolTip": "Modules\\AcademicEvents\\Service\\AcademicEventService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T07:51:54.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

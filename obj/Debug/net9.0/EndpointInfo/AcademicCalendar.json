@@ -1,0 +1,162 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "AcademicCalendar",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/academicyears": {
+      "get": {
+        "tags": [
+          "AcademicCalendar"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/AcademicYearDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "AcademicCalendar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AcademicYearCreateDto"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/AcademicYearDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/events": {
+      "post": {
+        "tags": [
+          "AcademicCalendar"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AcademicEventCreateDto"
+              }
+            }
+          },
+          "required": true
+        },
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "AcademicEventCreateDto": {
+        "type": "object",
+        "properties": {
+          "academicYearId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "AcademicYearCreateDto": {
+        "type": "object",
+        "properties": {
+          "yearName": {
+            "type": "string",
+            "nullable": true
+          },
+          "fallStart": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fallEnd": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "springStart": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "springEnd": {
+            "type": "string",
+            "format": "date-time"
+          }
+        },
+        "additionalProperties": false
+      },
+      "AcademicYearDto": {
+        "type": "object",
+        "properties": {
+          "yearName": {
+            "type": "string",
+            "nullable": true
+          },
+          "fallStart": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "fallEnd": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "springStart": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "springEnd": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}
